@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   about:
     "Student Informatica Avans",
   summary:
-    "Ambiteuze student met intresse in het bouwen van maatwerk software. Ben ik opzoek naar een stageplek waar ik veel kan leren. ",
+    "Ik ben een ambitieuze en leergierige student Informatica met een aanzienlijke ervaring als softwarebouwer, voornamelijk opgedaan tijdens mijn stages en bijbaan. Na het behalen van mijn MBO-diploma wilde ik mijn kennis uitbreiden, wat mijheeft geleid tot mijn huidige studie Informatica. Mijn passie voor het vakgebied en mijn streven naar continue groei motiveren mijom nieuwe uitdagingen aan te gaan.",
   avatarUrl: "https://avatars.githubusercontent.com/u/77294984?v=4",
   contact: {
     email: "Lars.druten@gmail.com",
