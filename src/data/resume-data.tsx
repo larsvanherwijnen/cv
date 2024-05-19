@@ -21,7 +21,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/lars-van-herwijnen-94ab76193/",
+        url: "https://www.linkedin.com/in/larsvanherwijnen",
         icon: LinkedInIcon,
       },
     ],
