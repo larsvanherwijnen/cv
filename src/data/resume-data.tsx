@@ -42,6 +42,15 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "iO",
+      link: "https://www.iodigital.com/nl",
+      badges: [],
+      title: "Stagiair Software Engineer",
+      start: "Sep. 2024",
+      end: "Jan. 2025",
+      description: "Tijdens mijn stage bij iO heb ik onderzoek gedaan naar tools om verschillende administratieve processen te verbeteren, zoals het registreren van uren en het indienen van kilometerdeclaraties.",
+    },
+    {
       company: "CBYTE",
       link: "https://cbyte.digital",
       badges: [],
@@ -54,7 +63,7 @@ export const RESUME_DATA = {
       company: "WeAreKonzept/Aniday",
       link: "https://www.aniday.io/",
       badges: [],
-      title: "Stagiaire Webdevelopment",
+      title: "Stagiair Webdevelopment",
       start: "nov 2021",
       end: "mei 2022",
       description:"Als stagiair Webontwikkeling bij Aniday heb ik actief bijgedragen aan de ontwikkeling van hun SaaS-software. Dit platform fungeerde als een plannings- en boekingssysteem voor hondenpensions en andere dierprofessionals."
@@ -63,7 +72,7 @@ export const RESUME_DATA = {
       company: "CBYTE",
       link: "https://cbyte.digital",
       badges: [],
-      title: "Stagiaire Webdevelopment",
+      title: "Stagiair Webdevelopment",
       start: "aug. 2020",
       end: "jan. 2021",
       description:
